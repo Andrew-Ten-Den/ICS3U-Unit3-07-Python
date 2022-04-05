@@ -17,7 +17,7 @@ def main():
         print("You can date!")
 
     elif visual_status == "no" and financial_status == "no":
-        print("No, you smell!")
+        print("Ew, get out!")
     else:
         print("Please enter yes or no")
 
